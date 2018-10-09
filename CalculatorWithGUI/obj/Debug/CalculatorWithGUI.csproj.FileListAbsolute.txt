@@ -1,0 +1,20 @@
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.exe.config
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.exe
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.pdb
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csprojAssemblyReference.cache
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.Form1.resources
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.Properties.Resources.resources
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csproj.GenerateResource.cache
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csproj.CoreCompileInputs.cache
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.exe
+E:\Com\Language\C#\1. GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.pdb
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.exe.config
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.exe
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\bin\Debug\CalculatorWithGUI.pdb
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csprojAssemblyReference.cache
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.Form1.resources
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.Properties.Resources.resources
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csproj.GenerateResource.cache
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.csproj.CoreCompileInputs.cache
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.exe
+E:\Com\Language\C#\GUI\CalculatorWithGUI\CalculatorWithGUI\obj\Debug\CalculatorWithGUI.pdb
